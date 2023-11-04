@@ -1,1 +1,67 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Vra!KO*4@o864`Wb`jvL" x="20" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Y6Q7`5(?@hAkD?^-Kv`r"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="oy]cBh=$mQ[[TiD}]BTU" x="283" y="20"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="%KeTFBzHKzf829l[c#[/"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="9Yt6~2vlC}4!Y/9yr5IM" x="563" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="D[g)PoQtf)YmCO.5e%t;"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # # # # . 
+        # . . # . 
+        # # # # .
+        `</field></block></statement></block><block type="device_forever" id="axwuiigIRHnBd*D3@)py" x="825" y="20"></block><block type="device_gesture_event" id="zlkD_NFO~[Zj[_!-b5!C" x="1030" y="20"><field name="NAME">Gesture.FreeFall</field><statement name="HANDLER"><block type="device_show_leds" id="_QIy^FTH:+uIhwtSGmvq"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # # 
+        # . . . . 
+        # . . . .
+        `</field></block></statement></block><block type="device_gesture_event" id="s]+{B*:S5Gh_kw9_tXSn" x="1267" y="20"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_show_leds" id="poWR-QA6d[lQ#hT7c@!%"><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . # # # . 
+        . # . # . 
+        . # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id="E0sE`x!za~tzh:Ve{59u" x="20" y="370"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="-PA|U-Wn=G{I?COoQaS8"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id=":*wBS69#+D9nO)_rtrV(" x="257" y="370"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="gWtblZ$q*nbEl+%$PfC`"><field name="LEDS">`
+        # # . . . 
+        # . # . # 
+        # # # . # 
+        . # # . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_gesture_event" id="hL2uW.HrWvQk6}b?}xqI" x="494" y="370"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="N=Tn/x:2G)usy#B;^1(6"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # # 
+        . . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_gesture_event" id="S%~r*_?VLOar?I-bHDfz" x="731" y="370"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="V@1TsXGx#GMFx|$,_odN"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # # # # # 
+        # . # . . 
+        # . . # .
+        `</field></block></statement></block><block type="device_gesture_event" id="bdO(ogKi;_rjb,^_nzbE" x="968" y="370"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="Z~Zj1}m,b^F+w9D#y1vF"><field name="LEDS">`
+        # . . # . 
+        # . . # . 
+        # . . # . 
+        # . . # . 
+        # # # # .
+        `</field></block></statement></block><block type="pxt-on-start" id="G:=EN.[yQ~}.X%,`aZ=B" x="144" y="684"><statement name="HANDLER"><block type="device_show_leds" id="|[+mn=a^mgw?K-|+l(bp"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field></block></statement></block></xml>
